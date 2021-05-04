@@ -1,0 +1,3 @@
+[submodule "module-c"]
+	path = module-c
+	url = https://github.com/DaniilShmelev/module-c.git
